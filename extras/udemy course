@@ -1,0 +1,172 @@
+Course content
+
+Section 1: Front End Web Development
+
+	1. What You'll Get in This Course 3min
+	2. Download the Course Syllabus 1min
+	3. Download the Course Resources 1min
+	4. Download the 12 Rules to Learn to Code eBook [Latest Edition] 1min
+	5. How Does the Internet Actually Work? 6min
+	6. How Do Websites Actually Work? 6min
+	7. How to Get the Most Out of the Course 10min
+	8. What You'll Need to Get  ed - Setup Your Local Web Development Environment 5min
+	9. Setup Packages 3min
+	10. How to Get Help When You're Stuck7min
+	11. Pathfinder 2min
+
+Section 2: Introduction To HTML
+
+	12. Introduction to HTML 11min
+	13. The Anatomy of an HTML Tag 11min
+	14. What we're building - HTML Personal Site 3min
+	15. What is The HTML Boilerplate? 17min
+	16. How to Structure Text in HTML 11min
+	17. HTML Lists 5min
+	18. HTML Image Elements 8min
+	19. HTML Links and Anchor Tags 12min
+	20. How to Ace this Course 1min
+
+Section 3: Intermediate HTML
+	21. HTML Tables 12min 
+	22. Using HTML Tables for Layout 2min
+	23. HTML Tables Code Challenge 2min
+	24. How to Type Emojis 1min
+	25. HTML Tables Solution Walkthrough 7min
+ 	26. HTML Forms 9min
+ 	27. Forms in Practice - Create a Contact Me Form 10min
+	Coding Exercise 1: HTML Challenge
+	28. Publish Your Website! 10min
+	29. Tip from Angela - Habit Building with the Calendar Trick 3min
+	30. Get Monthly Tips and Tools to Level Up as a Developer 1min
+Section 4:Introduction to CSS
+	31. Introduction to CSS 3min
+	32. Inline CSS 11min
+	33. Internal CSS 22min
+	34. External CSS 8min
+	35. How to Debug CSS Code 15min
+	36. The Anatomy of CSS Syntax 14min
+	37. CSS Selectors 6min
+	38. Classes vs. Ids 12min
+	Quiz 1: CSS Quiz
+	39. Tip from Angela - Dealing with Distractions 2min
+	40. Join the Student Community 1min
+	
+Section 5:Intermediate to CSS
+	41. What We'll Make - Stylised Personal Site 5min
+	42. What Are Favicons? 4min
+	43. HTML Divs 14min
+	44. The Box Model of Website Styling 20min
+	45. CSS Dis  Property 15min
+	46. Learn More About Web Design 1min
+	47. CSS Static and Relative Positioning 15min
+	48. Absolute positioning 12min
+	49. The Dark Art of Centering Elements with CSS 9min
+	50. Font Styling in Our Personal Site 14min
+	51. Learn More About Typography 1min
+	52. Adding Content to Our Website 7min
+	53. CSS Sizing 16min
+	54. Font Properties Challenge 1 - Change the Colours 1min
+	55. Font Properties Challenge 2 - Change the Font Weight 1min
+	56. Font Properties Challenge 3 - Change the Line Height 1min
+	57. CSS Font Property Challenge Solutions 4min
+	58. CSS Float and Clear 17min
+	59. CSS Challenge 1min
+	60. Stylised Personal Site Solution Walkthrough 21min
+	61. [Optional] Get More Practice HTML and CSS 1min
+		62. Tip from Angela - Nothing Easy is Worth Doing! 4min
+	63. What is Bootstrap? 16min
+	64. Installing Bootstrap 8min
+	65. Web Design 101 - Wireframing 12min
+	66. The Bootstrap Navigation Bar 21min
+	67. What We'll Make: TinDog 1min
+	68. Download the  ing Files 1min
+	69. Setting Up Our New Project 7min
+	70. Bootstrap Grid Layout System 20min
+	71. Getting Montserrat Black and other Font Weights 1min
+	72. Adding Grid Layouts to Our Website 10min
+	73. A Note About CSS Link Order 1min
+	74. Bootstrap Containers 6min
+	75. Bootstrap Buttons & Font Awesome 12min
+	76. Styling Our Website Challenges and Solutions 20min
+	77. Bootstrap Challenge 1 1min
+	78. Solution to Bootstrap Challenge 1 17min
+		79. Tip from Angela - How to Deal with Procrastination 4min
+	80. The Bootstrap Carousel Part 1 10min
+	81. The Bootstrap Carousel Part 2 17min
+	82. Bootstrap Cards 17min
+	83. The CSS Z-Index and Stacking Order 21min
+	84. Media Query Breakpoints 22min
+	85. Bootstrap Challenge 2 1min
+	86. Bootstrap Challenge 2 Solution 12min
+	87. How to become a Better Programmer - Code Refactoring 8min
+	88. Put it into Practice - Refactor our Website Part 1 19min
+	89. Advanced CSS - Combining Selectors 12min
+	90. Refactoring our Website Part 2 5min
+	91. Advanced CSS - Selector Priority 6min
+	92. Completing the Website 3min
+	93. Download the Completed Website 1min
+		94. Tip from Angela - Building a Programming Habit 3min
+	95. Introduction to Web Design 4min
+	96. Understanding Colour Theory 9min
+	97. Understanding Typography and How to Choose a Font 10min
+	98. Manage ATTENTION with effective User Interface (UI) Design 10min
+	99. User Experience (UX) Design 14min
+	100. Web Design in Practice - Let's apply what we've learnt! 18min
+	101. Introduction to Javascript 12min
+	102. Javascript Alerts - Adding Behaviour to Websites 14min
+	103. Data Types 4min
+	104. Javascript Variables 10min
+	105. Javascript Variables Exercise   3min
+		Coding Exercise 2: Javascript Variables Exercise
+	106. Javascript Variables Exercise Solution 3min
+	107. Naming and Naming Conventions for Javascript Variables 7min
+		Quiz 2: Javascript Variable Naming Quiz
+	108. String Concatenation 3min
+	109. String Lengths and Retrieving the Number of Characters 6min
+	110. Slicing and Extracting Parts of a String 9min
+	111. Challenge: Changing Casing in Text 4min
+	112. Challenge: Changing String Casing Solution 9min
+	113. Basic Arithmetic and the Modulo Operator in Javascript 6min
+	114. Increment and Decrement Expressions 2min
+		Quiz 3: Javascript Numbers Quiz
+	115. Functions Part 1: Creating and Calling Functions 11min
+	116. Functions Part 1 Challenge - The Karel Robot 9min
+	117. The Karel Chess Board Solution 1min
+	118. A Quick Note About the Next Lesson 1min
+	119. Functions Part 2: Parameters and Arguments 10min
+		Coding Exercise 3: Life in Weeks Coding Exercise
+	120. Life in Weeks Solution 4min
+	121. Functions Part 3: Outputs & Return Values 11min
+	122. Challenge: Create a BMI Calculator 2min
+		Coding Exercise 4: BMI Calculator Challenge
+	123. Challenge: BMI Calculator Solution 6min
+		Quiz 4: JavaScript Functions Quiz
+		124. Tip from Angela - Set Your Expectations 3min
+	125. Random Number Generation in Javascript: Building a Love Calculator 11min
+	126. Control Statements: Using If-Else Conditionals & Logic 5min
+	127. Comparators and Equality 3min
+	128. Combining Comparators 3min
+		Coding Exercise 5: BMI Calculator Advanced (IF/ELSE)
+	129. Introducing the Leap Year Code Challenge 4min
+		Coding Exercise 6: Leap Year Challenge Exercise
+	130. Leap Year Solution 3min
+	131. Collections: Working with Javascript Arrays 9min
+	132. Adding Elements and Intermediate Array Techniques 16min
+		Coding Exercise 7: Who's Buying Lunch? Code Challenge
+	133. Who's Buying Lunch Solution 4min
+	134. Control Statements: While Loops 8min
+	135. Solution to the 99 Bottles Challenge 1min
+	136. Control Statements: For Loops 6min
+	137. Introducing the Fibonacci Code Challenge 7min
+		Coding Exercise 8: The Fibonacci Exercise
+	138. Fibonacci Solution 8min
+		139. Tip from Angela - Retrieval is How You Learn 3min
+	140. Adding Javascript to Websites 11min
+	141. Introduction to the Document Object Model (DOM) 12min
+	142. Solution to the DOM Challenge 1min
+	143. Selecting HTML Elements with Javascript 14min
+	144. Manipulating and Changing Styles of HTML Elements with Javascript 5min
+	145. The Separation of Concerns: Structure vs Style vs Behaviour 6min
+	146. Text Manipulation and the Text Content Property 3min
+	147. Manipulating HTML Element Attributes 2min
+		148. Tip from Angela - The 20 Minute Method 3min

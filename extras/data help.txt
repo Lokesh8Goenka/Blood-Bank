@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" type="text/css" href="style/styles2.css">
+	<title>Data</title>
+
+	<!-- Favicon -->
+	<link rel="icon" type="image/x-icon" href="images/favicon.ico">
+
+	<!--Google Fonts-->
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Cinzel&family=Raleway&display=swap" rel="stylesheet">
+</head>
+<body>
+	
+	<!-- navbar starts-->
+	<section class ="title">
+		<nav>
+			<ul style="float: left; padding-top: 10px; list-style: none; font-size: 18px;">
+				<li><a href="index.html">Home</a></li>
+				<li><a href="data.html">Data</a></li>
+				<li><a href="contacts.html">Contact</a></li>
+				<li><a href="help.html">Help</a></li>
+				<ul id="register">
+					<li><a href="register.html">Register Now</a></li>
+				</ul>
+			</ul>	
+		</nav>
+		<h1 style="text-align: center; font-size: 80px;">Data</h1>
+	</section>
+	<!-- navbar ends-->
+	<div class="content">
+		<p>hi</p>
+	</div>
+
+	<!-- footer starts-->
+	<footer>
+		<p class="footer-text">© 2022</p>
+	</footer>
+	<!-- footer ends-->	
+
+</body>
+</html>
