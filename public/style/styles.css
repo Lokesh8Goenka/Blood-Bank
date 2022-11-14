@@ -159,6 +159,66 @@ footer{
     }
   }
 
+.img{
+
+    content: url(/images/Group1.png);
+}
+
+.gA{
+    content:url(/images/GroupA1.png);
+    animation: smoothA 1s; 
+}
+
+@keyframes smoothA{
+    from{
+        opacity: 0;
+    }
+    to{
+        opacity: 1;
+    }
+}
+
+.gAB{
+    content:url(/images/GroupAB1.png);
+    animation: smoothAB 1s; 
+}
+@keyframes smoothAB{
+    from{
+        opacity: 0;
+    }
+    to{
+        opacity: 1;
+    }
+}
+
+
+.gB{
+    content:url(/images/GroupB1.png);
+    animation: smoothB 1s; 
+}
+@keyframes smoothB{
+    from{
+        opacity: 0;
+    }
+    to{
+        opacity: 1;
+    }
+}
+
+.gO{
+    content:url(/images/GroupO1.png);
+    animation: smoothO 1s; 
+}
+@keyframes smoothO{
+    from{
+        opacity: 0;
+    }
+    to{
+        opacity: 1;
+    }
+}
+
+
 
 .data{
     text-align: center;
