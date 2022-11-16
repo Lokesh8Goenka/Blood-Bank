@@ -26,6 +26,12 @@ app.get("/", function(req,res){
         res.sendFile(__dirname + "/index.html");
     });   
 
+// app.post("/login", function(req, res){
+//     const name = req.body.name;
+
+//     if()
+// })
+
 app.post("/", function(req,res){
     
     const apikey = "579b464db66ec23bdd0000018bd47eced35545527e84f40b7eb6cf1b";

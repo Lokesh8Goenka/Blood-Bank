@@ -23,47 +23,23 @@ function groupA() {
    
   document.querySelector(".some").classList.remove("img","gB", "gAB", "gO");
   document.querySelector(".some").classList.add("gA");
-
-  // var image = document.getElementById("composition");
-    
-  // image.src = "/images/Group A1.png";
-  // image.classList.add("pic");
 }
-
-
-// var image1 = document.querySelectorAll("img")[2];
-// image1.setAttribute("src", "/images/group A.png");
 
 function groupB(){
 
   document.querySelector(".some").classList.remove("img","gA", "gAB", "gO");
   document.querySelector(".some").classList.add("gB");
-
-    // const image = document.getElementById("composition");
-    //     image.src = "/images/Group B1.png";
-    //     image.classList.add("pic");
 }
 
 function groupAB(){
 
   document.querySelector(".some").classList.remove("img","gB", "gA", "gO");
   document.querySelector(".some").classList.add("gAB");
-
-    // var image = document.getElementById("composition");
-    // image.src = "/images/Group AB1.png";
-    // image.classList.add("pic");
 }
 
 function groupO(){
 
   document.querySelector(".some").classList.remove("img","gB", "gAB", "gA");
   document.querySelector(".some").classList.add("gO");
-
-    // var image = document.getElementById("composition");
-    // image.src = "/images/Group O1.png";
-    // image.classList.add("pic");
 }
 
-// function group(){
-//     document.getElementById("composition").src = "/images/group.png"
-// }
